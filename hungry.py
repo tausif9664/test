@@ -4,4 +4,4 @@ if hungry=='yes':
     print('eat pizza')
     print('eat fries')
 else:
-    print('do homework')
+    print('are you thursty?')
